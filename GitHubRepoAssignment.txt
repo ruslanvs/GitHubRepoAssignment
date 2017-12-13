@@ -1,0 +1,8 @@
+mk dir
+git init
+touch
+git status
+git add --all
+git commit -m ""
+git remote add origin https://github.com/ruslanvs/GitHubRepoAssignment.git
+git push origin master
